@@ -1,2 +1,15 @@
-# ADS1-Assignement
-test
+# ADS1 Assignment 1 Report 
+`Student` : Taissir Boukrouba 
+### Data Table Summary : 
+![[Pasted image 20231105165550.png]]
+
+| Properties | Details                                                                                                                                                                                                                                                                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name       | ALL NATURAL DISASTERS 1900-2021 / EOSDIS                                                                                                                                                                                                                                                                                                                   |
+| Source     | [Kaggle](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis/data)                                                                                                                                                                                                                                                             |
+| Author     | BARIS DINCER                                                                                                                                                                                                                                                                                                                                               |
+| Type       | Climate Change Project                                                                                                                                                                                                                                                                                                                                     |
+| Data Type  | Csv Files      (9.44 Mb)                                                                                                                                                                                                                                                                                                                                   |
+| Tags       | [Earth and Nature](https://www.kaggle.com/datasets?tags=7000-Earth+and+Nature) , [Science and Technology](https://www.kaggle.com/datasets?tags=12000-Science+and+Technology) , [Atmospheric Science](https://www.kaggle.com/datasets?tags=7201-Atmospheric+Science) , [Weather and Climate](https://www.kaggle.com/datasets?tags=7408-Weather+and+Climate) |
+| Files      | 2 CSV Files                                                                                                                                                                                                                                                                                                                                                |
+| Github Repo Link           |   [Github Repo]()          
