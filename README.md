@@ -1,4 +1,5 @@
-# ADS1 Assignment 1 Report 
+# Exploratory Data Analysis Of World Natural Disasters
+
 ### Data Table Summary : 
 ![image](https://github.com/stardustyangel/ADS1-Assignement/assets/89689459/510cc513-f178-44eb-bd4e-e6ac41693fdc)
 
